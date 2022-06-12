@@ -12,6 +12,6 @@ Face detection has gained a lot of attention due to its real-time applications. 
 
 ## About Project
 In this project, we used medapipe, an open source Python library for detecting and tracking faces. To make it more accessible, we deployed it on the internet using Heroku. For the backend, we used Flask, and for the front end, we used Bootstrap and HTML. <br/>
-This deployed here 👉 https://face1-detection.herokuapp.com/
+You can check the deployment [here](https://face1-detection.herokuapp.com/) !
 
 ## Demo
