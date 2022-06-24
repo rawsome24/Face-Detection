@@ -15,3 +15,5 @@ In this project, we used medapipe, an open source Python library for detecting a
 You can check the deployment [here](https://face1-detection.herokuapp.com/) !
 
 ## Demo
+
+![Face_Detection](https://user-images.githubusercontent.com/95746772/175648938-e3b840b1-11a7-44a2-93b1-cdb1e2699061.gif)
